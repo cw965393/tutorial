@@ -1,0 +1,4 @@
+C:\Users\cory4\OneDrive\Documents\MVCtutorial\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojAssemblyReference.cache
+C:\Users\cory4\OneDrive\Documents\MVCtutorial\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\cory4\OneDrive\Documents\MVCtutorial\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\cory4\OneDrive\Documents\MVCtutorial\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
